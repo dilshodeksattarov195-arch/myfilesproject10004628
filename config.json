@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartetringify",
+        "uuid": 23797176,
+        "checksum": "y10oq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
